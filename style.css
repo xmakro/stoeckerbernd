@@ -46,7 +46,7 @@ a {
   color: #8E8F88;
 }
 
-.menu>a.level0 {
+.menu>a {
   display: inline-block;
   background-color: #22221D;
   width: 80px;
