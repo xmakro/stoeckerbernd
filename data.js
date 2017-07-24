@@ -32,7 +32,7 @@ var data = {
       "width": "500",
       "height": "535"
     }, {
-      "file": "LiegendeBronze.jpg",
+      "file": "liegendeBronze.jpg",
       "title": "Ausstellung vom 21.10. bis 19.11. in Vilshofen",
       "description": "\nStadtgalerie Vilshofen im Turm\nBadende\nSkulpturen, Grafiken und Zeichnungen\nEröffnung: 20.Okt um 19 Uhr\nÖffnungszeiten: Di-So: 14 – 17 Uhr\n21. Okt bis 19. Nov.",
       "width": "500",
