@@ -14,7 +14,7 @@ var data = {
       "width": "500",
       "height": "535"
     }, {
-      "file": "Haarewaschende.jpg",
+      "file": "Haarewaschende2.jpg",
       "title": "Eröffnung am 28.7. in Osterhofen",
       "description": "\nSkulpturenpark Osterhofen\nDie Skulptur „Sich Haarewaschende“ steht für 2 Jahre im Skulpturenpark.\nDer Park ist frei zugänglich\nEröffnung: 28.Juli  19 Uhr",
       "width": "500",
