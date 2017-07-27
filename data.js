@@ -2,13 +2,13 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
-      "file": "Gerhard.jpg",
+      "file": "Magdalena3.jpg",
       "title": "Vom 7.5. bis 30.10. in Pirna und Schloss Decin",
       "description": "\nZu Ehren von Käthe Kollwitz\nSkulpturensommer\nPirna – Decin\nBastionen der Festung Sonnenstein\nSchloßhof 2/4- Schloßterasse\n01796 Pirna\nund Schloß Decin\n7.Mai bis 30. September\nÖffnungszeiten: Mittwoch bis Sonntag 14-17 Uhr",
       "width": "500",
       "height": "535"
     }, {
-      "file": "Magdalena3.jpg",
+      "file": "TanzendeArbeitszustand.jpg",
       "title": "Ausstellung ab 16.7. in Simbach am Inn",
       "description": "\nSchauraum K3\n20 Jahre Kunst\nGalerie für Gegenwartskunst, Kottigstelzham 3\n84359 Simbach am Inn, Tel. 08572-1466\nEröffnung : Samstag 15.Juli 2017, 16 Uhr\nÖffnungszeiten: Fr, Sa und So von 16-19 Uhr",
       "width": "500",
@@ -20,7 +20,7 @@ var data = {
       "width": "500",
       "height": "535"
     }, {
-      "file": "TanzendeArbeitszustand.jpg",
+      "file": "Gerhard.jpg",
       "title": "Ausstellung vom 16.9. bis 29.10 in Schönau",
       "description": "\nSonnentage 2017 in Schönau\nEine Skulptur entsteht\nArbeiten von Bernd Stöcker\nGalerie im Turm\nBaron- Riederer- Str.46\n84337 Schönau\n16. Sept. -29.Okt.\nSa und So , 10 bis 23 Uhr",
       "width": "500",
