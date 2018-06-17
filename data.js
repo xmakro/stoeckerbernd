@@ -2,41 +2,53 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
-      "file": "Gerhard.jpg",
-      "title": "Vom 7.5. bis 30.10. in Pirna und Schloss Decin",
-      "description": "\nZu Ehren von Käthe Kollwitz\nSkulpturensommer\nPirna – Decin\nBastionen der Festung Sonnenstein\nSchloßhof 2/4- Schloßterasse\n01796 Pirna\nund Schloß Decin\n7.Mai bis 30. September\nÖffnungszeiten: Mittwoch bis Sonntag 14-17 Uhr",
-      "width": "500",
-      "height": "535"
+      "file": "alte_post_triftern.jpg",
+      "title": "Künstlerort Triftern im Rohbau: Vom 15.7. bis 5.8.2018, Samstag und Sonntag 14-18 Uhr, in der Alten Post, Triftern",
+      "description": "\nDies ist der Titel der ersten Ausstellung in der Alten Post. Es gibt in Triftern viele aktive bildnerische Künstler.\nSo ist es fast selbstverständlich, dass diese erste Ausstellung, in diesem noch nicht saniertem Gebäude, dem Schaffen Trifterner Künstler gewidmet ist.\n13 Trifterner Künstler sind beteiligt. Freilich kann es sich nur um einen ersten unvollständigen Überblick handeln, trotzdem wird man überrascht sein, was in Triftern entsteht.\nViele kennen die Alte Post von außen, aber nicht von innen. Die Ausstellung bietet also auch die Gelegenheit das Gebäude von innen kennenzulernen und zu sehen welche Möglichkeiten für kulturelle Aktivitäten hier vorhanden sind. Kulturelle Aktivitäten, die sich nicht nur an die Trifterner Bevölkerung wenden, sondern auch überregionales Interesse wecken möchte.\nEröffnung ist am 14.Juli 2018. Die Ausstellung geht vom 15.Juli bis 5.August 2018.\n Geöffnet Samstag und Sonntag von 14-18 Uhr.",
+      "width": "1015",
+      "height": "768"
     }, {
-      "file": "Magdalena3.jpg",
-      "title": "Ausstellung ab 16.7. in Simbach am Inn",
-      "description": "\nSchauraum K3\n20 Jahre Kunst\nGalerie für Gegenwartskunst, Kottigstelzham 3\n84359 Simbach am Inn, Tel. 08572-1466\nEröffnung : Samstag 15.Juli 2017, 16 Uhr\nÖffnungszeiten: Fr, Sa und So von 16-19 Uhr",
-      "width": "500",
-      "height": "535"
+      "file": "pnp12_juni2018.jpg",
+      "title": "Am 10.6.2018 im neuen kathol. Pfarrheim Triftern",
+      "description": "\nAm Sonntag den 10.Juni wurde das neue katholische Pfarrheim durch Domkapitular Dr. Hans Bauernfeind und Herrn Dr. Waldemar Hadulla in Triftern eingeweiht.\nNeben Michaela Surner und Reiner Schachtner hat Bernd Stöcker einen künstlerischen Beitrag zum neuen Pfarrheim geleistet.",
+      "width": "1306",
+      "height": "1331"
     }, {
-      "file": "Haarewaschende2.jpg",
-      "title": "Eröffnung am 28.7. in Osterhofen",
-      "description": "\nSkulpturenpark Osterhofen\nDie Skulptur „Sich Haarewaschende“ steht für 2 Jahre im Skulpturenpark.\nDer Park ist frei zugänglich\nEröffnung: 28.Juli  19 Uhr",
-      "width": "500",
-      "height": "535"
-    }, {
-      "file": "TanzendeArbeitszustand.jpg",
-      "title": "Ausstellung vom 16.9. bis 29.10 in Schönau",
-      "description": "\nSonnentage 2017 in Schönau\nEine Skulptur entsteht\nArbeiten von Bernd Stöcker\nGalerie im Turm\nBaron- Riederer- Str.46\n84337 Schönau\n16. Sept. -29.Okt.\nSa und So , 10 bis 23 Uhr",
+      "file": "liegendeBronze.jpg",
+      "title": "Ausstellung vom 21.10. bis 19.11.2017 in Vilshofen",
+      "description": "\nStadtgalerie Vilshofen im Turm\nBadende\nSkulpturen, Grafiken und Zeichnungen\nEröffnung: 20.Okt um 19 Uhr\nÖffnungszeiten: Di-So: 14 – 17 Uhr\n21. Okt bis 19. Nov.",
       "width": "500",
       "height": "535"
     }, {
       "file": "PeterSteiner.jpg",
-      "title": "Ausstellung vom 14.10. bis 19.11. in Pfarrkirchen",
+      "title": "Ausstellung vom 14.10. bis 19.11.2017 in Pfarrkirchen",
       "description": "\nDas kleine Format\nDie Kunst der Briefmarke\nMit Werken von Peter und Regina Steiner, Margit Corduan u.a.\nReiffenstuelhaus Pfarrkirchen\nKurator: Bernd Stöcker\nEröffnung: 13 Okt. 19 Uhr\n14 Okt- 19. Nov",
       "width": "500",
       "height": "535"
     }, {
-      "file": "liegendeBronze.jpg",
-      "title": "Ausstellung vom 21.10. bis 19.11. in Vilshofen",
-      "description": "\nStadtgalerie Vilshofen im Turm\nBadende\nSkulpturen, Grafiken und Zeichnungen\nEröffnung: 20.Okt um 19 Uhr\nÖffnungszeiten: Di-So: 14 – 17 Uhr\n21. Okt bis 19. Nov.",
+      "file": "TanzendeArbeitszustand.jpg",
+      "title": "Ausstellung vom 16.9. bis 29.10.2017 in Schönau",
+      "description": "\nSonnentage 2017 in Schönau\nEine Skulptur entsteht\nArbeiten von Bernd Stöcker\nGalerie im Turm\nBaron- Riederer- Str.46\n84337 Schönau\n16. Sept. -29.Okt.\nSa und So , 10 bis 23 Uhr",
       "width": "500",
       "height": "535"
+    }, {
+      "file": "Haarewaschende2.jpg",
+      "title": "Eröffnung am 28.7.2017 in Osterhofen",
+      "description": "\nSkulpturenpark Osterhofen\nDie Skulptur „Sich Haarewaschende“ steht für 2 Jahre im Skulpturenpark.\nDer Park ist frei zugänglich\nEröffnung: 28.Juli  19 Uhr",
+      "width": "500",
+      "height": "535"
+    }, {
+      "file": "Magdalena3.jpg",
+      "title": "Ausstellung ab 16.7.2017 in Simbach am Inn",
+      "description": "\nSchauraum K3\n20 Jahre Kunst\nGalerie für Gegenwartskunst, Kottigstelzham 3\n84359 Simbach am Inn, Tel. 08572-1466\nEröffnung : Samstag 15.Juli 2017, 16 Uhr\nÖffnungszeiten: Fr, Sa und So von 16-19 Uhr",
+      "width": "500",
+      "height": "535"
+    }, {
+        "file": "Gerhard.jpg",
+        "title": "Vom 7.5. bis 30.10.2017 in Pirna und Schloss Decin",
+        "description": "\nZu Ehren von Käthe Kollwitz\nSkulpturensommer\nPirna – Decin\nBastionen der Festung Sonnenstein\nSchloßhof 2/4- Schloßterasse\n01796 Pirna\nund Schloß Decin\n7.Mai bis 30. September\nÖffnungszeiten: Mittwoch bis Sonntag 14-17 Uhr",
+        "width": "500",
+        "height": "535"
     }]
   },
   "entstehung": {
