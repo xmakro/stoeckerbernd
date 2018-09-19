@@ -2,6 +2,11 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "affiche_galerie_mls.jpg",
+      "title": "Vom 12.9. bis 17.11. Galerie MLS, Bordeaux",
+      "width": "2892",
+      "height": "2504"
+    }, {
       "file": "alte_post_triftern.jpg",
       "title": "Künstlerort Triftern im Rohbau: Vom 15.7. bis 5.8.2018, Samstag und Sonntag 14-18 Uhr, in der Alten Post, Triftern",
       "description": "\nDies ist der Titel der ersten Ausstellung in der Alten Post. Es gibt in Triftern viele aktive bildnerische Künstler.\nSo ist es fast selbstverständlich, dass diese erste Ausstellung, in diesem noch nicht saniertem Gebäude, dem Schaffen Trifterner Künstler gewidmet ist.\n13 Trifterner Künstler sind beteiligt. Freilich kann es sich nur um einen ersten unvollständigen Überblick handeln, trotzdem wird man überrascht sein, was in Triftern entsteht.\nViele kennen die Alte Post von außen, aber nicht von innen. Die Ausstellung bietet also auch die Gelegenheit das Gebäude von innen kennenzulernen und zu sehen welche Möglichkeiten für kulturelle Aktivitäten hier vorhanden sind. Kulturelle Aktivitäten, die sich nicht nur an die Trifterner Bevölkerung wenden, sondern auch überregionales Interesse wecken möchte.\nEröffnung ist am 14.Juli 2018. Die Ausstellung geht vom 15.Juli bis 5.August 2018.\n Geöffnet Samstag und Sonntag von 14-18 Uhr.",
