@@ -2,6 +2,11 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "france3.link",
+      "title": "Fernseh-Interview mit France 3",
+      "description": "Ein Bericht des französischen Fernsehsenders France 3 Nouvelle-Aquitaine anlässlich der Austellung in der Galerie MLS in Bordeaux.",
+      "link": "https://www.youtube.com/watch?v=XA85-0KYxrk"
+    }, {
       "file": "affiche_galerie_mls.jpg",
       "title": "Vom 12.9. bis 17.11. Galerie MLS, Bordeaux",
       "width": "2892",

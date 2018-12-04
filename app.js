@@ -37,14 +37,30 @@ function load() {
 }
 
 function gallery(doc) {
+  var linkex = new RegExp("\.link$");
+  var imapex = new RegExp("\.imap$");
   let images = doc.images.map(item => {
     let height = item.height / item.width * 180;
+    if (linkex.test(item.file)) {
+      return `<a href="${item.link}" title="${item.title}: ${item.description}" target = "_blank">
+        <div>
+          <img src="images/gallery-thumb/${item.file}.png" width="188" height="${height}">
+          <span>${item.title}</span>
+        </div>
+      </a>`;
+  } else if (imapex.test(item.title)) {
+    return `<div>
+      <iframe width="188" height="${height}" src="https://www.youtube.com/embed/p-BagCiKIBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <span>${item.title}</span>
+    </div>`
+} else {
     return `<a href="images/gallery-full/${item.file}" title="${item.title}: ${item.description}">
       <div>
         <img src="images/gallery-thumb/${item.file}.png" width="188" height="${height}">
         <span>${item.title}</span>
       </div>
-    </a>`
+    </a>`;
+  }
   }).join('');
   return `<h1>${doc.title}</h1><div class="gallery">${images}</div>`;
 }
