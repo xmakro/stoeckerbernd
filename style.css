@@ -46,7 +46,7 @@ a {
   color: #8E8F88;
 }
 
-.menu>a {
+.menu>a.level0 {
   display: inline-block;
   background-color: #22221D;
   width: 80px;
@@ -131,4 +131,20 @@ h3 {
   line-height: 1.5em;
   display: block;
   text-align: center;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  background-color: #32322D;
+  float: left;
+    width: 45%;
+    padding: 10px;
+    height: 510px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
