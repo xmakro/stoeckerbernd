@@ -2,6 +2,12 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "Kulturpreis_Rottal-Inn_Foto_Ursula_Zeidler.jpg",
+      "title": "Vergabefeier des Kulturpreises und Förderkulturpreises des Landkreises",
+      "description": "Auf Preisverleihung am 7. November v.l.r. Kultubeauftragter des Landkreises Dr.Ludger Drost, Laudator Wolfgang Aigner, Arnstofer Bürgermeister Alfons Sittinger, Preisträgerin Anja Zogler, Preisträger Bernd Stöcker, Landrat Michael Fahmüller, Kulturbeauftragte der Stadt Simbach Petra Enghofer.\n Foto: Ursula Zeidler.",
+      "width": "4022",
+      "height": "2812"
+    }, {
       "file": "kulturpreis_rottal-inn.jpg",
       "title": "Kulturpreis des Landkreises Rottal-Inn",
       "width": "3179",
