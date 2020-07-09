@@ -2,12 +2,6 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
-      "file": "tanzende_hh-altona_aufbau.jpg",
-      "title": "Aufbau der 'Tanzenden' Phönixhof Altona",
-      "description": "Aufbau der 'Tanzenden' Phönixhof Altona, Ecke Schützenstr.-Bahrenfelder Steindamm, Januar 2020.",
-      "width": "158",
-      "height": "132"
-    }, {
       "file": "Kulturpreis_Rottal-Inn_Foto_Ursula_Zeidler.jpg",
       "title": "Vergabefeier des Kulturpreises und Förderkulturpreises des Landkreises",
       "description": "Auf Preisverleihung am 7. November v.l.r. Kultubeauftragter des Landkreises Dr.Ludger Drost, Laudator Wolfgang Aigner, Arnstofer Bürgermeister Alfons Sittinger, Preisträgerin Anja Zogler, Preisträger Bernd Stöcker, Landrat Michael Fahmüller, Kulturbeauftragte der Stadt Simbach Petra Enghofer.\n Foto: Ursula Zeidler.",
