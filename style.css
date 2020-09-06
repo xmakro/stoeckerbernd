@@ -196,3 +196,32 @@ h3 {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+ul.leaders {
+max-width: 45em;
+padding: 0;
+overflow-x: hidden;
+list-style: none
+}
+
+ul.leaders li:before {
+float: left;
+width: 0;
+white-space: nowrap;
+content:
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+}
+
+ul.leaders span:first-child {
+padding-right: 0.33em;
+background: #32322D
+}
+
+ul.leaders span + span {
+float: right;
+padding-left: 0.33em;
+background: #32322D
+}
