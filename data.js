@@ -2,6 +2,12 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "victoria_montage.jpg",
+      "title": "Aufstellung von Victoria in 20m Höhe",
+      "description": "Am Freitag den 16. Oktober wurde die Victoria für den Victoria Park der Jebens Gruppe in Hamburg auf die Säule in 20m Höhe montiert.",
+      "width": "188",
+      "height": "146"
+    }, {
       "file": "Kulturpreis_Rottal-Inn_Foto_Ursula_Zeidler.jpg",
       "title": "Vergabefeier des Kulturpreises und Förderkulturpreises des Landkreises",
       "description": "Auf Preisverleihung am 7. November v.l.r. Kultubeauftragter des Landkreises Dr.Ludger Drost, Laudator Wolfgang Aigner, Arnstofer Bürgermeister Alfons Sittinger, Preisträgerin Anja Zogler, Preisträger Bernd Stöcker, Landrat Michael Fahmüller, Kulturbeauftragte der Stadt Simbach Petra Enghofer.\n Foto: Ursula Zeidler.",
@@ -10,18 +16,20 @@ var data = {
     }, {
       "file": "kulturpreis_rottal-inn.jpg",
       "title": "Kulturpreis des Landkreises Rottal-Inn",
-      "width": "3179",
-      "height": "2544"
+      "width": "188",
+      "height": "146"
       }, {
       "file": "france3.link",
       "title": "Fernseh-Interview mit France 3",
       "description": "Ein Bericht des französischen Fernsehsenders France 3 Nouvelle-Aquitaine anlässlich der Austellung in der Galerie MLS in Bordeaux.",
-      "link": "https://www.youtube.com/watch?v=XA85-0KYxrk"
+      "link": "https://www.youtube.com/watch?v=XA85-0KYxrk",
+      "width": "188",
+      "height": "146"
     }, {
       "file": "affiche_galerie_mls.jpg",
       "title": "Vom 12.9. bis 17.11. Galerie MLS, Bordeaux",
-      "width": "2892",
-      "height": "2504"
+      "width": "188",
+      "height": "146"
     }]
   },
   "entstehung": {
