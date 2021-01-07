@@ -2,6 +2,12 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "tanzende_hh-altona.jpg",
+      "title": "'Tanzende' in Hamburg-Altona",
+      "description": "Wolfgang Essen von der Essen Gruppe und Bezirksamtsleiterin Frau Dr. von Berg vor der Bronzefigur 'Tanzende' von Bernd Stöcker in Hamburg-Altona.",
+      "width": "188",
+      "height": "146"
+    }, {
       "file": "victoria_montage.jpg",
       "title": "Aufstellung von Victoria in 20m Höhe",
       "description": "Am Freitag den 16. Oktober wurde die Victoria für den Victoria Park der Jebens Gruppe in Hamburg auf die Säule in 20m Höhe montiert.",
