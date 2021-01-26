@@ -2,6 +2,12 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "pnp20210112.jpg",
+      "title": "PNP-Serie 'Künstler in Corona-Zeiten'",
+      "description": "Artikel von Herwig Slezak in der PNP-Serie 'Künstler in Corona-Zeiten' erschienen am 12.01.2021.",
+      "width": "188",
+      "height": "146"
+    }, {
       "file": "tanzende_hh-altona.jpg",
       "title": "'Tanzende' in Hamburg-Altona",
       "description": "Wolfgang Essen von der Essen Gruppe und Bezirksamtsleiterin Frau Dr. von Berg vor der Bronzefigur 'Tanzende' von Bernd Stöcker in Hamburg-Altona.",
