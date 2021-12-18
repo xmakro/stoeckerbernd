@@ -2,6 +2,12 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "benedikt_von_nursia_rottbruecke_postmuenster.jpg",
+      "title": "Benedikt von Nursia an der Rottbrücke in Postmünster",
+      "description": "Am 16.Dezember an der Rottbrücke in Postmünster (Landkreis Rottal-Inn) aufgestellt. Der Steinblock aus französischen Muschelkalk hat eine Höhe von 280cm.",
+      "width": "188",
+      "height": "146"
+    }, {
       "file": "juni2013werkstatt.jpg",
       "title": "Ausstellung im Aldersbacher Kunstpfad verlängert",
       "description": "Freiluftausstellung im Klostergarten verlängert bis Ende April 2022.",
@@ -10,7 +16,7 @@ var data = {
     }, {
       "file": "pnp20210112.jpg",
       "title": "PNP-Serie 'Künstler in Corona-Zeiten'",
-      "description": "Artikel von Herwig Slezak in der PNP-Serie 'Künstler in Corona-Zeiten' erschienen am 12.01.2021.", 
+      "description": "Artikel von Herwig Slezak in der PNP-Serie 'Künstler in Corona-Zeiten' erschienen am 12.01.2021.",
       "width": "188",
       "height": "146"
     }, {
