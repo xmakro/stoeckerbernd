@@ -2,6 +2,13 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+    "file": "belmiro_azevedo_mai_2020.link",
+    "title": "Einweihung Belmiro de Azevedo",
+    "description": "Bronzefigur 'Belmiro de Azevedo' wird durch seinen Sohn Paulo in Porto eingeweiht.",
+    "link": "https://www.youtube.com/watch?v=VlRdZrmhFnA",
+    "width": "188",
+    "height": "146"
+  }, {
       "file": "benedikt_von_nursia_rottbruecke_postmuenster.jpg",
       "title": "Benedikt von Nursia an der Rottbrücke in Postmünster",
       "description": "Am 16.Dezember an der Rottbrücke in Postmünster (Landkreis Rottal-Inn) aufgestellt. Der Steinblock aus französischen Muschelkalk hat eine Höhe von 280cm.",
