@@ -2,6 +2,12 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+        "file": "NepomukPlattling.jpg",
+        "title": "Nepumuk an der neuen Isarbrücke in Plattling",
+        "description": "Bronze, Gesamthöhe mit Granitsäule ca. 7m, 2022",
+        "width": "188",
+        "height": "146"
+      }, {
     "file": "belmiro_azevedo_mai_2020.link",
     "title": "Einweihung Belmiro de Azevedo",
     "description": "Bronzefigur 'Belmiro de Azevedo' wird durch seinen Sohn Paulo in Porto eingeweiht.",
@@ -54,11 +60,6 @@ var data = {
       "title": "Fernseh-Interview mit France 3",
       "description": "Ein Bericht des französischen Fernsehsenders France 3 Nouvelle-Aquitaine anlässlich der Austellung in der Galerie MLS in Bordeaux.",
       "link": "https://www.youtube.com/watch?v=XA85-0KYxrk",
-      "width": "188",
-      "height": "146"
-    }, {
-      "file": "affiche_galerie_mls.jpg",
-      "title": "Vom 12.9. bis 17.11.18 Galerie MLS, Bordeaux",
       "width": "188",
       "height": "146"
     }]
