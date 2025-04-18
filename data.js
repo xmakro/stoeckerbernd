@@ -2,6 +2,18 @@ var data = {
   "aktuelles": {
     "title": "Aktuelles",
     "images": [{
+      "file": "pulsnitz1.jpg",
+      "title": "800 Jahre Pulsnitz: Jubiläumsausstellung",
+      "description": "Siehe auch nächste Seite.",
+      "width": "188",
+      "height": "146"
+    }, {
+      "file": "pulsnitz2.jpg",
+      "title": "MENSCH! Figuren und Bilder aus Ost und West",
+      "description": "Siehe auch vorherige Seite.",
+      "width": "188",
+      "height": "146"
+      }, {
       "file": "haarewaschende_jardin_public_bordeaux.jpg",
       "title": "Einweihung der 'Femme se lavant les cheveux'",
       "description": "Bronzefigur am 7.10.2024 im Jardin Public in Bordeaux aufgestellt.",
@@ -45,17 +57,6 @@ var data = {
       "width": "188",
       "height": "146"
     }, {
-      "file": "Kulturpreis_Rottal-Inn_Foto_Ursula_Zeidler.jpg",
-      "title": "Vergabefeier des Kulturpreises und Förderkulturpreises des Landkreises",
-      "description": "Auf Preisverleihung am 7. November v.l.r. Kultubeauftragter des Landkreises Dr.Ludger Drost, Laudator Wolfgang Aigner, Arnstofer Bürgermeister Alfons Sittinger, Preisträgerin Anja Zogler, Preisträger Bernd Stöcker, Landrat Michael Fahmüller, Kulturbeauftragte der Stadt Simbach Petra Enghofer.\n Foto: Ursula Zeidler.",
-      "width": "4022",
-      "height": "2812"
-    }, {
-      "file": "kulturpreis_rottal-inn.jpg",
-      "title": "Kulturpreis des Landkreises Rottal-Inn",
-      "width": "188",
-      "height": "146"
-      }, {
       "file": "france3.link",
       "title": "Fernseh-Interview mit France 3",
       "description": "Ein Bericht des französischen Fernsehsenders France 3 Nouvelle-Aquitaine anlässlich der Austellung in der Galerie MLS in Bordeaux.",
