@@ -4,13 +4,13 @@ var data = {
     "images": [{
       "file": "pulsnitz1.jpg",
       "title": "800 Jahre Pulsnitz: Jubiläumsausstellung",
-      "description": "Siehe auch nächste Seite.",
+      "description": "'Eva' und Drucke bei Ausstellung 'MENSCH! Figuren und Bilder aus Ost und West'.",
       "width": "188",
       "height": "146"
     }, {
-      "file": "pulsnitz2.jpg",
+      "file": "pulsnitz_ingrid.jpg",
       "title": "MENSCH! Figuren und Bilder aus Ost und West",
-      "description": "Siehe auch vorherige Seite.",
+      "description": "Figuren von Ingrid Baumgärtner bei Jubiläumsausstellung.",
       "width": "188",
       "height": "146"
       }, {
